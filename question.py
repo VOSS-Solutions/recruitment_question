@@ -1,9 +1,9 @@
 #Recruitment challenge
 
-# uncnomment below and figured out what must be imported
+# uncomment below and figured out what must be imported
 #import
 
-#bottom 2 stringss are encoded, find out how
+#bottom 2 strings are encoded, find out how
 search = "KCg/Olx4MkYpfCg/OmNhcmVlcnMpfCg/Oltjd3Zvc2lvbmx0bXUtXSl8KD86XC4pKQ=="
 #below string has been formatted for PEP8
 text = "dmltIG9wZW5zb3VyY2Ugc29mdHdhcmUgc2VjdXJlIC0gc29mdC1waG9uZSBvcGVyYXRpb25z\
@@ -13,7 +13,7 @@ text = "dmltIG9wZW5zb3VyY2Ugc29mdHdhcmUgc2VjdXJlIC0gc29mdC1waG9uZSBvcGVyYXRpb25z
 
 url = ''
 
-#fix the below variables by decoding 2^5
+#fix the below variables by decoding 2^6
 decode_search = search
 decode_text = text
 
