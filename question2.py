@@ -1,8 +1,9 @@
-#####################################
-# File name: question2.py           #
-# Author: Eugene de Beste           #
-# Title: Anagram Determination      #
-#####################################
+##############################################
+# File name: question2.py                    #
+# Author: Eugene de Beste                    #
+# Email: eugene.debeste@voss-solutions.com   #
+# Title: Anagram Determination               #
+##############################################
 
 # "An anagram is a type of word play, the result of rearranging 
 # the letters of a word or phrase to produce a new word or phrase,
